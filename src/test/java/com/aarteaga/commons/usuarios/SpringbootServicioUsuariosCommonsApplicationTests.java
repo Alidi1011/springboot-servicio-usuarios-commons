@@ -1,4 +1,4 @@
-package com.aarteaga.usuarios.commons;
+package com.aarteaga.commons.usuarios;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

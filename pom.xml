@@ -8,7 +8,7 @@
 		<version>2.7.16</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.aarteaga.usuarios.commons</groupId>
+	<groupId>com.aarteaga.commons.usuarios</groupId>
 	<artifactId>springboot-servicio-usuarios-commons</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-servicio-usuarios-commons</name>

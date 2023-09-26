@@ -1,4 +1,4 @@
-package com.aarteaga.usuarios.commons.models.entity;
+package com.aarteaga.commons.usuarios.models.entity;
 
 import java.io.Serializable;
 

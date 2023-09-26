@@ -1,4 +1,4 @@
-package com.aarteaga.usuarios.commons;
+package com.aarteaga.commons.usuarios;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
